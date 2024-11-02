@@ -1,0 +1,8 @@
+StudentID,FirstName,LastName,Course,Professor,ProfessorEmail,CourseStart,CourseEnd,classRoom
+101,Mandy,Bod,Math101,Dr.Smith,smith@mst.edu,01-01-2023,5/30/2023,M1
+101,Mandy,Bod,CS101,Dr.Jones,jones@mst.edu,02-01-2023,6/15/2023,C1
+102,Sri,Che,Math101,Dr.Smith,smith@mst.edu,01-01-2023,5/30/2023,M1
+102,Sri,Che,CS101,Dr.Smith,smith@mst.edu,02-01-2023,6/15/2023,C2
+103,Mouli,Poth,CS101,Dr.Jones,jones@mst.edu,02-01-2023,6/15/2023,C1
+104,Sasi,Velk,Bio101,Dr.Watson,watson@mst.edu,03-01-2023,7/20/2023,B1
+105,Veer,Appi,CS101,Dr.Jones,jones@mst.edu,02-01-2023,6/15/2023,C1
